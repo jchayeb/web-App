@@ -10,11 +10,9 @@ import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(name="Logout", urlPatterns={"/logout.go"},
         loadOnStartup=1)
-// practice: invalidate session
+
 public class Logout extends HttpServlet {
-    /**
-     * 
-     */
+   
  
 
     @Override
