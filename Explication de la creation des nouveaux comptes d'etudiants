@@ -1,0 +1,6 @@
+1-creation de la base de donnee "users'.
+2-creation de la table "contacts".
+3-creation du user "root' avec password "root".
+4-acces a la page "contactform.java" pour remplire la forme concernant l'etudiant du cnam.
+5-apelle de la page "uploadservlet.java" pour insertion des donnee dans la table 'contacts' apres avoir faire le lien avec la base de donnee 'users'.
+6-finalement affichage du message de fin de la procedure. 
